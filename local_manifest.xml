@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest>
+  <remote name="all" fetch="host" clone-depth="1"/>
+  <project remote="github" revision="branch" path="dir/dev" name="repo/dev"/>
+  <project remote="github" revision="branch" path="dir/dev/com" name="repo/com"/>
+  <project remote="github" revision="branch" path="dir/dev/ker" name="repo/ker"/>
+  <project remote="github" revision="branch" path="dir/dev/ven" name="repo/ven"/>
+</manifest>
